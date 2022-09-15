@@ -1,4 +1,13 @@
-### Hi there 👋
+## About Me 👋
+
+Hi, my name is Yuri and I'm a graduate student at Universidade Federal Fluminense (UFF) and software engineer currently focusing on full-stack web development. 
+I have also a great interest in game dev, using the Unity Engine and C#, and I try to learn and develop games when possible.
+
+Besides that I really love reading and music, being a self taught multi-instrumentalist, and I have two released albuns in spotify with my former band.
+
+So, I'm someone always looking for improving myself and trying to align my passion for technology and arts, especialy music.
+
+[![yuri-mascarenhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-mascarenhas&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **yuri-mascarenhas/yuri-mascarenhas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
