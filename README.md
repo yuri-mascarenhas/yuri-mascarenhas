@@ -1,11 +1,11 @@
 ## About Me 👋
 
-Hi, my name is Yuri and I'm a graduate student at Universidade Federal Fluminense (UFF) and intern at BTG Pactual, currently focusing on full-stack web development and Information Security. 
+Hi, my name is Yuri and I'm a graduate student at Universidade Federal Fluminense (UFF) and Cybersecurity IT assistant at BTG Pactual, currently focusing on full-stack web development and Information Security. 
 I have also a great interest in creative coding, using the p5.js library.
 
-Besides that I really love reading and music, being a self taught multi-instrumentalist, and I have two released albuns in spotify with my former band.
+Besides that I really love reading and music, being a self taught multi-instrumentalist I have two released albuns with my former band.
 
-So, I'm someone always looking for improving myself and trying to align my passion for technology and arts, especialy music.
+I'm someone always looking for self improvement and trying to align my passion for technology and arts.
 
 [![yuri-mascarenhas's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuri-mascarenhas&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
